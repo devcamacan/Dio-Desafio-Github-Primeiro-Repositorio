@@ -6,4 +6,4 @@ _Desafío de Projeto Dio_
 
 [Comandos básicos Linux usados no termux](https://wiki.termux.com/wiki/Touch_Keyboard)
 
-[NeimarJr - Bored apê](/Dio-Desafio-Github-Primeiro-Repositorio/img/Screenshot_20220127-220127-removebg-preview.png)
+
