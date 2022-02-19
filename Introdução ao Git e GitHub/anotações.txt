@@ -1,3 +1,6 @@
 Curso de Introdução ao Git e GitHub.
 Estou fazendo este curso através do smartphone, Motorola Moto G7 plus.
-Usando o app Termux...
+
+Usando o app Termux.
+Tive varios problemas usando este app devido a configurações, ireidetalhar 
+as soluções que obtive para os problemas encontrados.
